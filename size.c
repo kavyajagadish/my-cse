@@ -6,6 +6,7 @@ void even(int arr[],int size){
         }
     }
 }
-int maim
+int main(){
+    int
     return 0;
 }
